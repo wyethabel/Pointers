@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : Pointers.cpp
 // Author      : Wyeth Abel
-// Description :
+// Description : A simple program used to test pointers and dynamic memory.
 //============================================================================
 
 #include <iostream>
